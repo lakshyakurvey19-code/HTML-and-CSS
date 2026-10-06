@@ -1,0 +1,27 @@
+*{
+    margin: 0.3%;
+    padding: 0%;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#box1{
+    width: 200px;
+    height: 200px;
+    background: #e48b8b;
+}
+
+#box2{
+    width: 200px;
+    height: 200px;
+    background: #52e16e;
+}
+
+#box3{
+    width: 200px;
+    height: 200px;
+    background: #559ce2;
+}
